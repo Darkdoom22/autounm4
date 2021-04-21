@@ -1,5 +1,5 @@
 # autounm4
-fixes some bugs with the original autounm
+fixes some bugs with the original autounm and generally spruces everything up (and I added some fun target info stuff to make your botting more enjoyable!)
 
 
 Please look at the READ THIS file in libraries before loading and make sure you setup the files appropriately, the addon WILL NOT LOAD if you do not do this step.
