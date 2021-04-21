@@ -233,7 +233,7 @@ local function GrabValidJunction()
 
             if(temp.name == "Ethereal Junction")then
 
-                if(math.sqrt(temp.distance))then
+                if(math.sqrt(temp.distance) < 6)then
 
                     return temp
                     
